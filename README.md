@@ -160,8 +160,7 @@ The clusters showed similar distributions of the dataset-provided heart disease 
 * Seaborn
 * Scikit-learn
 * Google Colab
-* Git
-* GitHub
+* Git & GitHub
 
 ## Project Workflow
 
